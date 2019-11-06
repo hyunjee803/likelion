@@ -1,0 +1,39 @@
+html{
+    height:100%;
+
+}
+  
+body{
+
+    background-color: brown;
+}
+div{
+    border:burlywood solid 3px;
+    display:inline-block;
+    color:cornsilk
+}
+
+div{
+    font size: 30px;
+    color: violet;
+    text-align: center;
+    margin:100px 30px;
+    padding: 30px;
+    overflow: scroll;
+    float: left;
+}
+
+.make_class{
+    color:black;
+    background: gray;  
+    border:4px red solid;
+}
+
+#you{
+    color:wheat;
+    border: 5px black solid;
+}
+
+.back_class{
+    background: white;
+}
